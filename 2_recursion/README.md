@@ -8,4 +8,9 @@ To understand recursion, one must first understand recursion
   - A recursive algorithm must have a base case
   - A recursive algorithm must change its state and move forward the base case.
   - A recursive algorithm must call itself recursively.
-  
+
+## Test
+* factorial.py: Snippet code for factorial function
+* print_number.py: Snippet code for printing streak of numbers
+
+
