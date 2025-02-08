@@ -67,4 +67,6 @@ I think the bubble sort would be the wrong way to go
 4. 어떤 정렬을 선택해야 할까?
     **삽입 정렬(Insertion Sort)**이 **버블 정렬(Bubble Sort)**보다 일반적으로 더 효율적이며, 데이터가 거의 정렬된 상태라면 O(n) 성능을 기대할 수 있습니다.
 
-    
+
+### Merge Sort
+  
