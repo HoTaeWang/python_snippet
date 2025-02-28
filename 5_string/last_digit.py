@@ -11,3 +11,14 @@ print(nl)
 
 last_nl = [c for c in s if c.isdigit()][-1]
 print(last_nl)
+
+# list comprehension test
+# [expression(i) for i in iterable if filter(i) ]
+# [expression(i) for i in iterable]
+# [expression for member in iterable (if conditional)]
+# [expression for member in iterable]
+# [expression for member in iterable if filter(member)]
+# [expression for member in iterable if conditional]
+test_list = ["selftaught", "code", "sit", "eat", "programming", "dinner",
+"one", "two", "coding", "a", "tech"]
+print([word for word in test_list if len(word) >= 4])
